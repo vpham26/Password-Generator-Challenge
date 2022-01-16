@@ -8,7 +8,7 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Acceptance Criteria](#acceptance-criteria)
-5. [FAQs](#faqs)
+5. [Mock Up](#mock-up)
 
 ## General Info
 ***
