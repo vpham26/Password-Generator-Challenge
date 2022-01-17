@@ -55,5 +55,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
 
-
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/78709516/149683507-27a22e6a-55ea-42fb-84c2-41b95383f1f7.png)
 
