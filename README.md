@@ -27,6 +27,20 @@ This app will run in the browser. Code uses HTML and CSS along with JavaScript.
     
 $ git clone https://github.com/coding-boot-camp/friendly-parakeet
 
+$ git check out develop
+
+work on .js - added variables, function, conditions, alerts, windows, and randomizer. (supposed to be in develop branch) 
+
+$ git add .
+
+$ git commit -m "" (make commits along the process)
+
+$ git push develop
+
+$ git merge master 
+
+$ git push origin main
+
 2. Modify the code to meet the Acceptance Criteria.
 
 3. Ensure that your work meets the full list of grading requirements below.
